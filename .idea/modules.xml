@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-direct-consumer/rabbitmq-direct-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-direct-consumer/rabbitmq-direct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-direct-provider/rabbitmq-direct-provider.iml" filepath="$PROJECT_DIR$/rabbitmq-direct-provider/rabbitmq-direct-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-fanout-consumer/rabbitmq-fanout-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-fanout-consumer/rabbitmq-fanout-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-fanout-provider/rabbitmq-fanout-provider.iml" filepath="$PROJECT_DIR$/rabbitmq-fanout-provider/rabbitmq-fanout-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-topic-consumer/rabbitmq-topic-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-topic-consumer/rabbitmq-topic-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-topic-provider/rabbitmq-topic-provider.iml" filepath="$PROJECT_DIR$/rabbitmq-topic-provider/rabbitmq-topic-provider.iml" />
+    </modules>
+  </component>
+</project>
